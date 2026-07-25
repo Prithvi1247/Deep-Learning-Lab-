@@ -1,0 +1,35 @@
+# === macOS Specific Files ===
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# === Python Bytecode / Caches ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+
+# === Virtual Environments ===
+.venv/
+venv/
+ENV/
+env/
+
+# === Environment Variables / Secrets ===
+.env
+.env.local
+*.env
+
+# === IDEs / Editors (VS Code & PyCharm) ===
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
