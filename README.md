@@ -18,7 +18,7 @@ The repository contains Jupyter notebooks corresponding to the experiments and e
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Prithvi1247/Deep-Learning-Lab-.git
 cd DL_LAB
 ```
 
